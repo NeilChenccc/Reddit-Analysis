@@ -86,31 +86,31 @@ LDA, one of the most famous topic modeling methods was utilized here to define a
 	</thead>
 	<tbody>
 		<tr>
-			<td><img src="img/wordcloud/fig1.png" style="width: 350px; height: 105px;" /></td>
+			<td><img src="img/wordcloud/topic0.png" style="width: 350px; height: 105px;" /></td>
 			<td>Topic 0 <br>
 				Keywords: senator <br>
 				Pos-Neg Ratio: 2.05</td>
 		</tr>
 		<tr>
-			<td><img src="img/wordcloud/fig2.png" style="width: 350px; height: 105px;" /></td>
+			<td><img src="img/wordcloud/topic1.png" style="width: 350px; height: 105px;" /></td>
 			<td>Topic 1 <br>
 				Keywords: short, das <br>
 				Pos-Neg Ratio: 1.61</td>
 		</tr>
 		<tr>
-			<td><img src="img/wordcloud/fig3.png" style="width: 350px; height: 105px;" /></td>
+			<td><img src="img/wordcloud/topic2.png" style="width: 350px; height: 105px;" /></td>
 			<td>Topic 2 <br>
 				Keywords: integrate, conspiracy <br>
 				Pos-Neg Ratio: 1.46</td>
 		</tr>
 		<tr>
-			<td><img src="img/wordcloud/fig4.png" style="width: 350px; height: 105px;" /></td>
+			<td><img src="img/wordcloud/topic3.png" style="width: 350px; height: 105px;" /></td>
 			<td>Topic 3 <br>
 				Keywords: improvement <br>
 				Pos-Neg Ratio: 3.94</td>
 		</tr>
 		<tr>
-			<td><img src="img/wordcloud/fig5.png" style="width: 350px; height: 105px;" /></td>
+			<td><img src="img/wordcloud/topic4.png" style="width: 350px; height: 105px;" /></td>
 			<td>Topic 4 <br>
 				Keywords: officer, hillary, accusation <br>
 				Pos-Neg Ratio: 1.13</td>
