@@ -1,10 +1,25 @@
 # Reddit-Analysis
 The goal for this project is to conduct a sentiment analysis to classify the posts into different moods. We will explore millions of posts, classify them into different politic topics and then analyze the mood for all the posts under each topic, trying to tell the altitude of these posts.
 
-## Code
-**Exploratory Data Analysis:** [Link](project_eda.ipynb)
-**Sentiment Analysis:** [Link](project_nlp.ipynb)
-**Predictive Modeling:** [Link](project_ml.ipynb)
+## Code & Analysis
+**Exploratory Data Analysis:** 
+
+[Code](project_eda.ipynb)
+
+[Analysis](https://yrchen.georgetown.domains/anly502/eda.html)
+
+**Sentiment Analysis:** 
+
+[Code](project_nlp.ipynb)
+
+[Analysis](https://yrchen.georgetown.domains/anly502/nlp.html)
+
+
+**Predictive Modeling:** 
+
+[Code](project_ml.ipynb)
+
+[Analysis](https://yrchen.georgetown.domains/anly502/ml.html)
 
 ## SUMMARY
 ### Right Gains a Higher Post Score
