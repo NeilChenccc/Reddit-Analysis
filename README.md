@@ -6,7 +6,7 @@ The goal for this project is to conduct a sentiment analysis to classify the pos
 
 The posts from right related author_flair type tend to have a higher score, no matter whether the posts are from authors of Authoritarian or Libertarian.
 
-<img src="/img/fig1.png" style="width: 700px; height: 570px;" />
+<img src="img/fig1.png" style="width: 700px; height: 570px;" />
 
 ### Different Contents, Different Sentiments</strong>
 
@@ -81,5 +81,5 @@ LDA, one of the most famous topic modeling methods was utilized here to define a
 
 Since political factor is always an essential feature of stock market, these subreddit posts may have an impact on the stock prices. According to the time series plot of Nasdaq Index, the predictions is pretty close to the real close prices. And the best model uses the last 60 days' historical data to make a prediction of the next day price.
 
-<img src="/img/fig2.png" style="width: 650px; height: 568px;" />
+<img src="img/fig2.png" style="width: 650px; height: 568px;" />
 
